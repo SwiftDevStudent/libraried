@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Reference For Developers
     description                           : New to SwiftUI? Forgot the exact code? Check out the code on any view.
-    fontawesome_icon_name                 : books
+    fontawesome_icon_name                 : book
     
   - title                                 : Designer Handbook
     description                           : As designers we like details, see all the possibilities for each component.
